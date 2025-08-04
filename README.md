@@ -1,5 +1,5 @@
  orderwise-api-milestone3
-Here's a **simple and clear README.md** file for **Milestone 3** of your project (Customer Orders REST API with order endpoints):
+
 
 ---
 
